@@ -8,4 +8,6 @@ This is a simple template using HTMl, CSS, Javascript.
 # Previews Of The Template
 
 site is published at **https://shravanmeena.github.io/Build-a-Tribute-Page/**
+![Image description](https://www.google.co.in)
+
 
