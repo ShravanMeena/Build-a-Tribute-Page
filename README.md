@@ -8,6 +8,6 @@ This is a simple template using HTMl, CSS, Javascript.
 # Previews Of The Template
 
 site is published at **https://shravanmeena.github.io/Build-a-Tribute-Page/**
-![Image description](https://c2.staticflickr.com/4/3689/10613180113_fdf7bcd316_b.jpg)
+![Image description](https://github.com/shravanmeena/Build-a-Tribute-Page/blob/master/Your%20site%20is%20published.jpg)
 
 
